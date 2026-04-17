@@ -162,12 +162,12 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">
-                        <p> S13 1998-2026 </p>
+                        <p> 1998-2026 </p>
                         <div style={styles.spacer} />
                         {showBiosInfo && (
                             <>
-                                <p>Showcase</p>
-                                <p>Checking RAM :</p>
+                                <p></p>
+                                <p>Checking RAM:</p>
                                 <div style={styles.spacer} />
                                 <div style={styles.spacer} />
                                 {showLoadingResources ? (

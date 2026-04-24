@@ -6,7 +6,7 @@ interface InfoOverlayProps {
     visible: boolean;
 }
 
-const NAME_TEXT = 'тёнь';
+const NAME_TEXT = 'Houston,Tx';
 const TITLE_TEXT = '';
 const MULTIPLIER = 1;
 

@@ -149,7 +149,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         <div style={styles.logoContainer}>
                             <div>
                                 <p style={styles.green}>
-                                    <b>тень</b>{' '}
+                                    <b>тёнь</b>{' '}
                                 </p>
                                 <p style={styles.green}>
                                     <b></b>
@@ -157,12 +157,12 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             </div>
                         </div>
                         <div style={styles.headerInfo}>
-                            <p>Released: 04/04/1998</p>
-                            <p> BIOS (C) 1998</p>
+                            <p>Released: 2026</p>
+                            <p> BIOS (C) 2026</p>
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">
-                        <p> 1998-2026 </p>
+                        <p>  </p>
                         <div style={styles.spacer} />
                         {showBiosInfo && (
                             <>

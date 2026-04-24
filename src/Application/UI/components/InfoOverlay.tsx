@@ -6,7 +6,7 @@ interface InfoOverlayProps {
     visible: boolean;
 }
 
-const NAME_TEXT = 'тень';
+const NAME_TEXT = '';
 const TITLE_TEXT = '';
 const MULTIPLIER = 1;
 

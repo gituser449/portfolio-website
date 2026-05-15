@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://v0-interactive-desktop-website.vercel.app/';
+        iframe.src = 'https://www.shadow.community/';
         /**
          * Use dev server is query params are present
          *
